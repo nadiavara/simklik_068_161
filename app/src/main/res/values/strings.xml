@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">SIMKLIK</string>
+    <string name="str_home">Home</string>
+    <string name="str_ruang">Ruang</string>
+    <string name="str_no_kamar">No. Kamar</string>
+    <string name="str_tgl_masuk">Tgl. Masuk</string>
+    <string name="str_tgl_keluar">Tgl. Keluar</string>
+    <string name="str_rekam_medis">Rekam Medis</string>
+    <string name="str_detail">Detail</string>
+    <string name="bantuan">Bantuan</string>
+    <string name="tentang">Tentang</string>
+    <string name="str_silahkan_isi_kolom_dibawah">Silahkan Isi Kolom dibawah untuk mencari nama : </string>
+    <string name="str_cari">Cari</string>
+    <string name="str_btn_beli">Beli</string>
+    <string name="str_tgl_lahir">Tgl. Lahir</string>
+    <string name="str_alamat">Alamat</string>
+    <string name="str_no_ktp">No. KTP</string>
+    <string name="str_no_handphone">No. Handphone</string>
+    <string name="str_nama_lengkap">Nama Lengkap</string>
+    <string name="str_register">Register</string>
+    <string name="str_sudah_punya_akun">Sudah punya akun?</string>
+    <string name="str_login">Login</string>
+    <string name="str_username">Username</string>
+    <string name="str_password">Password</string>
+    <string name="str_belum_punya_akun">Belum punya akun?</string>
+    <string name="str_login_dengan_username_dan_password">Login dengan Username dan Password</string>
+    <string name="str_bantuan">
+        Menu Registrasi : \n
+        1. Pilih menu Registrasi.\n
+        2. Isikan data pasien terlebih dahulu dan buat username dan password.\n
+        \n
+        Menu Daftar Pasien : \n
+        1. Pilih menu Daftar Pasien kemudian isikan username dan password yang telah diisikan di register.\n
+        2. Untuk mencari pasien isi kolom pada daftar pasien untuk mencari nama atau alamat pasien\n
+        3. Dan akan muncul Detail Pasien untuk data dan rekam medis pasien.\n
+        \n
+        Menu Bantuan :\n
+        1. Pilih Menu Bantuan\n
+        2. Halaman bantuan akan memuat tentang informasi tata cara penggunaan aplikasi.\n
+        \n
+        Menu Tentang :\n
+        1. Pilih menu Tentang.\n
+        2. Halaman tentang akan memuat tentang informasi aplikasi.\n
+    </string>
+    <string name="str_tentang">
+        Aplikasi Sistem Informasi Pasien Klinik adalah aplikasi yang menginformasikan tentang pasien yang menjalani pasien di Klinik.\n
+        \n
+        Dengan aplikasi ini, user yang ingin menjenguk atau mendaftar pasien akan lebih mudah dan lebih cepat.\n
+    </string>
+
+</resources>

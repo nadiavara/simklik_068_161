@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "171095354092",
+    "firebase_url": "https://simklik-c6ea4.firebaseio.com",
+    "project_id": "simklik-c6ea4",
+    "storage_bucket": "simklik-c6ea4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171095354092:android:e60ddbd4688c202acd13c9",
+        "android_client_info": {
+          "package_name": "id.kuliah.simklik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "171095354092-7leacaucbkma8gslts96iilhktk9jkp4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.kuliah.simklik",
+            "certificate_hash": "386b59c4307822998706da098808e0c10e3ac1be"
+          }
+        },
+        {
+          "client_id": "171095354092-2m6ug3ont70ffki6amlmlmt5q0ubj9vu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOuU9NsdUagt8HsP3xz9skql15bZeBvgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "171095354092-2m6ug3ont70ffki6amlmlmt5q0ubj9vu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
